@@ -1,0 +1,645 @@
+{
+  "movieOneShift1": [
+    {
+      "status": "free",
+      "id": 1
+    },
+    {
+      "status": "free",
+      "id": 2
+    },
+    {
+      "status": "booked",
+      "id": 3
+    },
+    {
+      "status": "booked",
+      "id": 4
+    },
+    {
+      "status": "booked",
+      "id": 5
+    },
+    {
+      "status": "free",
+      "id": 6
+    },
+    {
+      "status": "free",
+      "id": 7
+    },
+    {
+      "status": "free",
+      "id": 8
+    },
+    {
+      "status": "free",
+      "id": 9
+    },
+    {
+      "status": "free",
+      "id": 10
+    },
+    {
+      "status": "booked",
+      "id": 11
+    },
+    {
+      "status": "free",
+      "id": 12
+    },
+    {
+      "status": "free",
+      "id": 13
+    },
+    {
+      "status": "free",
+      "id": 14
+    },
+    {
+      "status": "free",
+      "id": 15
+    },
+    {
+      "status": "booked",
+      "id": 16
+    },
+    {
+      "status": "free",
+      "id": 17
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 20
+    }
+  ],
+  "movieOneShift2": [
+    {
+      "status": "free",
+      "id": 1
+    },
+    {
+      "status": "free",
+      "id": 2
+    },
+    {
+      "status": "free",
+      "id": 3
+    },
+    {
+      "status": "free",
+      "id": 4
+    },
+    {
+      "status": "free",
+      "id": 5
+    },
+    {
+      "status": "booked",
+      "id": 6
+    },
+    {
+      "status": "free",
+      "id": 7
+    },
+    {
+      "status": "free",
+      "id": 8
+    },
+    {
+      "status": "free",
+      "id": 9
+    },
+    {
+      "status": "booked",
+      "id": 10
+    },
+    {
+      "status": "free",
+      "id": 11
+    },
+    {
+      "status": "booked",
+      "id": 12
+    },
+    {
+      "status": "free",
+      "id": 13
+    },
+    {
+      "status": "free",
+      "id": 14
+    },
+    {
+      "status": "booked",
+      "id": 15
+    },
+    {
+      "status": "free",
+      "id": 16
+    },
+    {
+      "status": "free",
+      "id": 17
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 20
+    }
+  ],
+  "avangerShift1": [
+    {
+      "status": "booked",
+      "id": 1
+    },
+    {
+      "status": "free",
+      "id": 2
+    },
+    {
+      "status": "free",
+      "id": 3
+    },
+    {
+      "status": "booked",
+      "id": 4
+    },
+    {
+      "status": "free",
+      "id": 5
+    },
+    {
+      "status": "free",
+      "id": 6
+    },
+    {
+      "status": "booked",
+      "id": 7
+    },
+    {
+      "status": "free",
+      "id": 8
+    },
+    {
+      "status": "free",
+      "id": 9
+    },
+    {
+      "status": "booked",
+      "id": 10
+    },
+    {
+      "status": "free",
+      "id": 11
+    },
+    {
+      "status": "free",
+      "id": 12
+    },
+    {
+      "status": "free",
+      "id": 13
+    },
+    {
+      "status": "free",
+      "id": 14
+    },
+    {
+      "status": "free",
+      "id": 15
+    },
+    {
+      "status": "free",
+      "id": 16
+    },
+    {
+      "status": "free",
+      "id": 17
+    },
+    {
+      "status": "booked",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 20
+    }
+  ],
+  "avangerShift2": [
+    {
+      "status": "free",
+      "id": 1
+    },
+    {
+      "status": "free",
+      "id": 2
+    },
+    {
+      "status": "free",
+      "id": 3
+    },
+    {
+      "status": "free",
+      "id": 4
+    },
+    {
+      "status": "free",
+      "id": 5
+    },
+    {
+      "status": "booked",
+      "id": 6
+    },
+    {
+      "status": "free",
+      "id": 7
+    },
+    {
+      "status": "free",
+      "id": 8
+    },
+    {
+      "status": "free",
+      "id": 9
+    },
+    {
+      "status": "free",
+      "id": 10
+    },
+    {
+      "status": "free",
+      "id": 11
+    },
+    {
+      "status": "free",
+      "id": 12
+    },
+    {
+      "status": "booked",
+      "id": 13
+    },
+    {
+      "status": "free",
+      "id": 14
+    },
+    {
+      "status": "free",
+      "id": 15
+    },
+    {
+      "status": "free",
+      "id": 16
+    },
+    {
+      "status": "free",
+      "id": 17
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 20
+    }
+  ],
+  "batVSuperShift1": [
+    {
+      "status": "free",
+      "id": 1
+    },
+    {
+      "status": "free",
+      "id": 2
+    },
+    {
+      "status": "free",
+      "id": 3
+    },
+    {
+      "status": "booked",
+      "id": 4
+    },
+    {
+      "status": "free",
+      "id": 5
+    },
+    {
+      "status": "free",
+      "id": 6
+    },
+    {
+      "status": "free",
+      "id": 7
+    },
+    {
+      "status": "free",
+      "id": 8
+    },
+    {
+      "status": "free",
+      "id": 9
+    },
+    {
+      "status": "booked",
+      "id": 10
+    },
+    {
+      "status": "free",
+      "id": 11
+    },
+    {
+      "status": "free",
+      "id": 12
+    },
+    {
+      "status": "free",
+      "id": 13
+    },
+    {
+      "status": "booked",
+      "id": 14
+    },
+    {
+      "status": "booked",
+      "id": 15
+    },
+    {
+      "status": "free",
+      "id": 16
+    },
+    {
+      "status": "free",
+      "id": 17
+    },
+    {
+      "status": "booked",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 20
+    }
+  ],
+  "batVSuperShift2": [
+    {
+      "status": "free",
+      "id": 1
+    },
+    {
+      "status": "free",
+      "id": 2
+    },
+    {
+      "status": "free",
+      "id": 3
+    },
+    {
+      "status": "free",
+      "id": 4
+    },
+    {
+      "status": "free",
+      "id": 5
+    },
+    {
+      "status": "free",
+      "id": 6
+    },
+    {
+      "status": "free",
+      "id": 7
+    },
+    {
+      "status": "free",
+      "id": 8
+    },
+    {
+      "status": "free",
+      "id": 9
+    },
+    {
+      "status": "free",
+      "id": 10
+    },
+    {
+      "status": "free",
+      "id": 11
+    },
+    {
+      "status": "free",
+      "id": 12
+    },
+    {
+      "status": "free",
+      "id": 13
+    },
+    {
+      "status": "free",
+      "id": 14
+    },
+    {
+      "status": "free",
+      "id": 15
+    },
+    {
+      "status": "free",
+      "id": 16
+    },
+    {
+      "status": "free",
+      "id": 17
+    },
+    {
+      "status": "booked",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 19
+    },
+    {
+      "status": "free",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "putra",
+      "email": "putra@gmail.com",
+      "password": "123456"
+    },
+    {
+      "username": "bimo",
+      "email": "bimo@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "sisuka",
+      "email": "sisuka@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avengers",
+      "link": "/avanger",
+      "url": "https://www.quirkybyte.com/wp-content/uploads/2018/01/avengers-infinity-war-comic-pictures-On-High-Resolution-Wallpaper-e1519280534144.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Batman vs Superman",
+      "link": "/batmanvssuperman",
+      "url": "https://vignette.wikia.nocookie.net/5f4f178d-b53c-4c43-801b-a7bc560c0e16/scale-to-width-down/800"
+    },
+    {
+      "id": 3,
+      "title": "Equalizer 2",
+      "link": "/equalizer",
+      "url": "https://otakukart.com/wp-content/uploads/2018/06/The-Equalizer-2.jpg"
+    }
+  ],
+  "transaction": [
+    {
+      "username": "putra",
+      "booking": [
+        10
+      ],
+      "movie": "avanger studio 2 morning",
+      "id": 1
+    },
+    {
+      "username": "putra",
+      "booking": [
+        13
+      ],
+      "movie": "avanger studio 2 evening",
+      "id": 2
+    },
+    {
+      "username": "putra",
+      "booking": [
+        4
+      ],
+      "movie": "batman v superman studio 3 morning",
+      "id": 3
+    },
+    {
+      "username": "putra",
+      "booking": [
+        19
+      ],
+      "movie": "batman v superman studio 3 morning",
+      "id": 4
+    },
+    {
+      "username": "putra",
+      "booking": [],
+      "movie": "batman v superman studio 3 morning",
+      "id": 5
+    },
+    {
+      "username": "putra",
+      "booking": [],
+      "movie": "batman v superman studio 3 morning",
+      "id": 6
+    },
+    {
+      "username": "putra",
+      "booking": [
+        19
+      ],
+      "movie": "batman v superman studio 3 evening",
+      "id": 7
+    },
+    {
+      "username": "putra",
+      "booking": [
+        3,
+        16
+      ],
+      "movie": "equalizer studio 1 morning",
+      "id": 8
+    },
+    {
+      "username": "putra",
+      "booking": [
+        10
+      ],
+      "movie": "equalizer studio 1 evening",
+      "id": 9
+    },
+    {
+      "username": "sisuka",
+      "booking": [
+        1
+      ],
+      "movie": "avanger studio 2 morning",
+      "id": 10
+    },
+    {
+      "username": "sisuka",
+      "booking": [
+        14
+      ],
+      "movie": "batman v superman studio 3 morning",
+      "id": 11
+    },
+    {
+      "username": "sisuka",
+      "booking": [
+        6
+      ],
+      "movie": "equalizer studio 1 evening",
+      "id": 12
+    },
+    {
+      "username": "sisuka",
+      "booking": [
+        5
+      ],
+      "movie": "equalizer studio 1 morning",
+      "id": 13
+    },
+    {
+      "username": "sisuka",
+      "booking": [
+        12
+      ],
+      "movie": "equalizer studio 1 evening",
+      "id": 14
+    }
+  ]
+}
